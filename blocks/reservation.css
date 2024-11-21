@@ -1,6 +1,7 @@
 .reservation{
     background-color: #D9E7FF;
     background-image: url(../images/se_project_2_files/background_reservation.svg);
+    background-position: center;
     position: relative;
     background-repeat: no-repeat;
     background-size: cover;
